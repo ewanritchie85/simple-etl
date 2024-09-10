@@ -1,0 +1,12 @@
+temp/
+**/.vscode
+**/*_cache
+**/*pycache*
+venv/
+*.tfstate*
+requirements.txt
+**/__pycache__/
+*coverage*
+docs/
+**/.terraform*
+*/tfplan
